@@ -10,3 +10,10 @@
   NodeJs, ExpressJs, MongoDB, GraphQL, Mongoose
 ##
 ### This is a Project Management application made for freelancers to manage clients and projects efficiently. The application supports full CRUD functionalities. Users can add and delete clients and projects, update project's status and client info, etc.
+
+## Screenshots:
+![Project-Manager Home](https://github.com/sum28it/project-manager/blob/master/screenshots/Screenshot%20(657).png)
+
+## Useful Links-
+* [GraphQL](https://graphql.org/learn/)
+* [Apollo Client](https://www.apollographql.com/docs/react/)
